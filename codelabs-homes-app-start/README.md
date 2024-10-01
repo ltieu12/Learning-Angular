@@ -1,4 +1,3 @@
-# This repository is for me to learn a newer version of Angular - v18
 # Angular Homes App
 - Install Angular if you don't have it installed
 
@@ -19,6 +18,8 @@
 - Run the application 
 
   `ng serve`
+
+## This repository is for me to learn a newer version of Angular - v18
 
 # Key points from this app:
 - Components
